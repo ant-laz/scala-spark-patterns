@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sparkpatterns:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sparkpatterns_jar</output-path>
+    <root id="archive" name="sparkpatterns.jar">
+      <element id="module-output" name="sparkpatterns" />
+      <element id="extracted-dir" path="$USER_HOME$/.sbt/boot/scala-2.12.18/lib/scala-library.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

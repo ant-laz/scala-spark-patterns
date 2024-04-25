@@ -2,3 +2,6 @@
 /project/target/
 /target/
 /target/scala-2.12/classes/
+/out/
+/src/main/scala/META-INF/MANIFEST.MF
+.idea/artifacts/sparkpatterns_jar.xml
